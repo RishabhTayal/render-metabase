@@ -14,3 +14,4 @@ databases:
   - name: elephant
     databaseName: metabasedb
     ipAllowList: [] # only allow internal connections
+    plan: free
